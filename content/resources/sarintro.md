@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6ae0fbb5-7eae-ffa5-84cc-d6582f7117ea
 resourcetype: Document
 title: sarintro.pdf
 uid: 2ea3f006-fed4-5bd8-1a07-1cc4c55a2a06

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6ae0fbb5-7eae-ffa5-84cc-d6582f7117ea
 resourcetype: Document
 title: sarkovskii_final.pdf
 uid: 3b6e11ed-820e-9661-dfa1-9d6a9cca1107

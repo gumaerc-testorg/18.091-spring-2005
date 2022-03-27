@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6ae0fbb5-7eae-ffa5-84cc-d6582f7117ea
 resourcetype: Document
 title: sarkthm.pdf
 uid: 8c0959b2-81e8-50ea-9b08-16839ae4c839

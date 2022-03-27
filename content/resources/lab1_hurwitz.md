@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 90126c3f-6819-5b19-9fde-53006e78a8ac
 resourcetype: Document
 title: lab1_hurwitz.pdf
 uid: d419ad52-59a6-a9e3-1f75-4d539cc18d17
