@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignments section contains the list of problems from the given text
+  for the sessions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
