@@ -6,6 +6,7 @@ file: /courses/18-091-mathematical-exposition-spring-2005/6717ca2df19f7b53b7fa0a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture01.pdf
 uid: 6717ca2d-f19f-7b53-b7fa-0ab1bc4339f6
 ---
 This file contains the notes for the lectureon the topic "Examples of Dynamical Systems".
-

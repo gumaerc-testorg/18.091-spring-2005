@@ -5,6 +5,7 @@ file: /courses/18-091-mathematical-exposition-spring-2005/0056b9ed83fa75969bccc1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture08.pdf
 uid: 0056b9ed-83fa-7596-9bcc-c1ba7628ce8d
 ---
 This file contains the notes for chaos and sarvoskii's theorem.
-

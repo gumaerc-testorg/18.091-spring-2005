@@ -6,6 +6,7 @@ file: /courses/18-091-mathematical-exposition-spring-2005/b46496ea92ac23c8894721
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab1rw.pdf
 uid: b46496ea-92ac-23c8-8947-21bc83afd68d
 ---
 This file contains the introduction, procedure and results of an experiment conducted by a student.
-
