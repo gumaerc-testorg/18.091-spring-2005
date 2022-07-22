@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Assignments section contains the list of problems from the given text
+  for the sessions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 62b020ea-156a-e773-dd1d-71c427d31503
 ---
