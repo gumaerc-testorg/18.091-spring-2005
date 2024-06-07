@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains the notes for the topic: Iterated Function Systems.'
 file: /courses/18-091-mathematical-exposition-spring-2005/563fd376852ac6aacb71c1159167a2cd_lecture11part2.pdf
+file_size: 119874
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

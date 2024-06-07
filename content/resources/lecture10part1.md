@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the notes for the topic Newton's Method.
 file: /courses/18-091-mathematical-exposition-spring-2005/06b0db56c3031c2377b2bac9de71574f_lecture10part1.pdf
+file_size: 82288
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

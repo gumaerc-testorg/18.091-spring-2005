@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains the notes for the topic: Fractals?and?Dimension.'
 file: /courses/18-091-mathematical-exposition-spring-2005/4d85f9c231d9b27e7216676cb61210df_lecture11part1.pdf
+file_size: 107895
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

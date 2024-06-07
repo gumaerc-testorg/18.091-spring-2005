@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the notes for chaos and sarvoskii's theorem.
 file: /courses/18-091-mathematical-exposition-spring-2005/0056b9ed83fa75969bccc1ba7628ce8d_lecture08.pdf
+file_size: 124020
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
