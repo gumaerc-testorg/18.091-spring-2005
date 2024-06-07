@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the notes for the lectureon the topic "Examples of
   Dynamical Systems".
 file: /courses/18-091-mathematical-exposition-spring-2005/6717ca2df19f7b53b7fa0ab1bc4339f6_lecture01.pdf
+file_size: 113532
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

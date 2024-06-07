@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the introduction, procedure and results of an experiment
   conducted by a student.
 file: /courses/18-091-mathematical-exposition-spring-2005/b46496ea92ac23c8894721bc83afd68d_lab1rw.pdf
+file_size: 144659
 file_type: application/pdf
 learning_resource_types:
 - Labs

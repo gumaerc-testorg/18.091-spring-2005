@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the notes for the orbit diagram and the period-doubling
   route to chaos.
 file: /courses/18-091-mathematical-exposition-spring-2005/5d5d5acb6315a7159a737825d75b9525_lecture05.pdf
+file_size: 80327
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
