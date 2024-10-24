@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains the notes for the lecture on the topic "Bifurcation
   and the Quadratic Map". It also explains types of cycles and?their?meaning, and
   bifurcations.
-file: /courses/18-091-mathematical-exposition-spring-2005/7d263c49fdb0d8b8f9afb7dfbd649d2b_bifurcations.pdf
+file: /ol-ocw-studio-app/courses/18-091-mathematical-exposition-spring-2005/7d263c49fdb0d8b8f9afb7dfbd649d2b_bifurcations.pdf
 file_size: 123650
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the introduction, properties of chaotic systems and
   the shift maps.
-file: /courses/18-091-mathematical-exposition-spring-2005/5dfeedda5f8964bd1a5afce1dc4b174f_lecture07.pdf
+file: /ol-ocw-studio-app/courses/18-091-mathematical-exposition-spring-2005/5dfeedda5f8964bd1a5afce1dc4b174f_lecture07.pdf
 file_size: 145261
 file_type: application/pdf
 learning_resource_types:
