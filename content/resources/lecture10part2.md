@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains notes for the topic: Chaos in Newton?s Method, and
   Fractals.'
-file: /courses/18-091-mathematical-exposition-spring-2005/693396db46e2fbf8cf289afa5f653988_lecture10part2.pdf
+file: /ol-ocw-studio-app/courses/18-091-mathematical-exposition-spring-2005/693396db46e2fbf8cf289afa5f653988_lecture10part2.pdf
 file_size: 97816
 file_type: application/pdf
 learning_resource_types:
