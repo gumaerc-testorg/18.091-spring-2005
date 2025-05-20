@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the lab instructions for the third lab.
-file: /ol-ocw-studio-app/courses/18-091-mathematical-exposition-spring-2005/dd5e3fd934000f77167850755d2bf25b_lab3.pdf
+file: /courses/18-091-mathematical-exposition-spring-2005/dd5e3fd934000f77167850755d2bf25b_lab3.pdf
 file_size: 21674
 file_type: application/pdf
 learning_resource_types:

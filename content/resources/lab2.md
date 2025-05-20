@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the instructions for lab 2.
-file: /ol-ocw-studio-app/courses/18-091-mathematical-exposition-spring-2005/26cf596b013392996f5b4fcabce57270_lab2.pdf
+file: /courses/18-091-mathematical-exposition-spring-2005/26cf596b013392996f5b4fcabce57270_lab2.pdf
 file_size: 22625
 file_type: application/pdf
 learning_resource_types:
