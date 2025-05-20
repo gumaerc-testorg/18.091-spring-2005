@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the introduction, procedure, results for the experiment
   by a student done for third lab.
-file: /ol-ocw-studio-app/courses/18-091-mathematical-exposition-spring-2005/46ba05300e4196561a6697e47d839138_lab31.pdf
+file: /courses/18-091-mathematical-exposition-spring-2005/46ba05300e4196561a6697e47d839138_lab31.pdf
 file_size: 76228
 file_type: application/pdf
 learning_resource_types:
