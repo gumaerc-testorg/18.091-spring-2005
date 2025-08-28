@@ -4,7 +4,7 @@ description: Labs section contains the information about the labs and contains t
   files by the students.
 draft: false
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 90126c3f-6819-5b19-9fde-53006e78a8ac
