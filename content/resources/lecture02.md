@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the notes for the topics: Graphical Analysis of Orbits
   and Fixed Points of Functions.'
-file: /courses/18-091-mathematical-exposition-spring-2005/bba8cd20e9ed72969c529f00a8c372e2_lecture02.pdf
+file: /ol-ocw-studio-app/courses/18-091-mathematical-exposition-spring-2005/bba8cd20e9ed72969c529f00a8c372e2_lecture02.pdf
 file_size: 261391
 file_type: application/pdf
 learning_resource_types:

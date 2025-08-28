@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains the notes for the topic: The?Quadratic?Family?and?the?Cantor?Set.'
-file: /courses/18-091-mathematical-exposition-spring-2005/78a4e9b2ae06f267b9037816b8504fec_lecture04.pdf
+file: /ol-ocw-studio-app/courses/18-091-mathematical-exposition-spring-2005/78a4e9b2ae06f267b9037816b8504fec_lecture04.pdf
 file_size: 161837
 file_type: application/pdf
 learning_resource_types:
