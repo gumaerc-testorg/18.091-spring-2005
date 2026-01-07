@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Labs
 uid: 90126c3f-6819-5b19-9fde-53006e78a8ac
 ---
-These labs are based on those given in Professor Robert L. Devaney's textbook, *A First Course in Chaotic Dynamical Systems*. New York, NY: Addison-Wesley Publishing Company, The Advanced Book Program, 1995. ISBN: 0201554062, and in his course at Boston University. They utilize the resources provided by him on {{% resource_link "8171fa54-fad1-435b-8a70-17cf52307e4b" "The Dynamical Systems and Technology Project Web site" %}} and {{% resource_link "7e464096-f3d1-4e60-9c7c-54f459734841" "Mathematica Tools" %}} written by Sebastian Marotta.
+These labs are based on those given in Professor Robert L. Devaney's textbook, *A First Course in Chaotic Dynamical Systems*. New York, NY: Addison-Wesley Publishing Company, The Advanced Book Program, 1995. ISBN: 0201554062, and in his course at Boston University. They utilize the resources provided by him on [The Dynamical Systems and Technology Project Web site](http://math.bu.edu/DYSYS/) and [Mathematica Tools](http://math.bu.edu/INDIVIDUAL/bob/MA471/mathematica.html) written by Sebastian Marotta.
 
 Students are strongly encouraged to work together on these experiments. In each computer lab, students are asked to write an essay describing their findings. See the {{% resource_link "3df6ff7f-b24c-c1c5-fc8e-789825b79373" "related resources" %}} section for information on writing mathematics and Lab Report Expectations ({{% resource_link "e6f3ee9e-564f-b37e-c6d8-0198bdf74862" "PDF" %}}).
 
